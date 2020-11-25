@@ -7,7 +7,7 @@ class Person
     @name = name
   end
 
-  def breed
-    @breed
+  def name
+    @name
   end
 end
